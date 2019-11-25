@@ -2,6 +2,8 @@ package jp.ac.uryukyu.ie.e195752;
 
 import org.junit.jupiter.api.Test;
 
+import javax.naming.Name;
+
 import static org.junit.jupiter.api.Assertions.*;
 
 class EnemyTest {
