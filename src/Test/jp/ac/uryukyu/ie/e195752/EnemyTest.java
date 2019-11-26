@@ -7,7 +7,6 @@ import javax.naming.Name;
 import static org.junit.jupiter.api.Assertions.*;
 
 class EnemyTest {
-
     @Test
     void attack() {
         int heroHP = 10;

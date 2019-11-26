@@ -50,6 +50,7 @@ public class LivingThing {
             opponent.wounded(damage);
         }
     }
+
     public void wounded(int damage){
         hitPoint -= damage;
         if( hitPoint < 0 ) {
